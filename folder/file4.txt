@@ -1,0 +1,7 @@
+Big data is transforming how we understand the world. Analyzing big data requires 
+powerful algorithms and efficient processing. In this lecture, we explore big data 
+algorithms and how word count analysis helps us process large datasets. 
+
+Data processing is a key step in data science. When we perform word count, we look 
+for the most frequent words. This word count technique is often the first step in 
+natural language processing.
