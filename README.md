@@ -17,7 +17,7 @@ To run this notebook, you will need Python installed along with the following li
 * `nltk`
 * `wordcloud`
 
-You can install the required libraries using pip:
+Required libraries using pip:
 ```bash
 pip install pandas matplotlib nltk wordcloud
 ```
